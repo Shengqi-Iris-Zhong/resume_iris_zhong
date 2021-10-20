@@ -1,0 +1,159 @@
+---
+title: "Iris Zhong's resume"
+author: Iris Zhong
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.pagedjs_page{
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+
+
+
+Main
+================================================================================
+
+Iris (Shengqi) Zhong {#title}
+--------------------------------------------------------------------------------
+
+
+<i class="fa fa-envelope"></i> izhong@stanford.edu | <i class="fa fa-github"></i> [Github](https://github.com/Shengqi-Iris-Zhong) | <i class="fab fa-linkedin"></i> [Linkedin Profile](https://www.linkedin.com/in/shengqi-zhong-46049a165/) | <i class="fa fa-phone"></i> +1 413-695-5783 | <i class="fas fa-map-marker-alt"></i> Stanford, CA
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+### Software
+
+\s
+
+\s
+
+
+- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Full experience with next generation sequencing data analysis.
+- Highly skilled in R, Bash, Perl, Python, LaTeX
+
+
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Stanford University
+
+M.S. in Education Data Science
+
+Stanford, CA
+
+Expected 2023
+
+::: concise
+* Natural Language Processing (Python, UNIX), Data Mining (R)
+
+:::
+
+
+
+### Smith College
+
+B.A. in Psychology & Quantitative Economics
+
+Northampton, MA
+
+2021
+
+::: concise
+* GPA: 3.99
+* Highest Honor in Psychology
+* Data Cleaning and Wrangling (R), Multiple Regression (R), Dyadic Model (R), Research Methodology, Developmental Psychology
+:::
+
+
+
+Education Related Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Research Assistant
+
+Stanford University
+
+Remote
+
+2021/08 - Present
+
+- Tested nineteen native Mandarin-speaking participants in a study investigating their use of English with AI partners
+
+### Blog Writer
+
+Tiz Education
+
+Remote
+
+2021/01 - Present
+
+- Write blog posts in education technology and educational research, creating over 15 articles and accumulating more than 3000 views
+
+### HR Archive Group Member
+
+Education Without Barriers
+
+Remote
+
+2020/05 - Present
+
+-	Manage the substitute teacher system, and check volunteer teachers' substitution status regularly
+-	Work with principals and supervise the teacher transfer process among schools
+
+  
+
+Data Science Related Experience {data-icon=table}
+--------------------------------------------------------------------------------
+
+### Statistics Project Member
+
+Statistics in Education Seminar
+
+Northampton, MA
+
+2020/01 - 2020/05
+
+-	Collaborated in conducting path analysis to investigate the effect of Literacy Express Curriculum on preschool children's language development
+-	Discovered the curriculum's positive influence on children's reading comprehension ability at elementary school 
+- Presented the [results](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/AbstractDetails.cfm?AbstractID=308527) at Women in Statistics and Data Science Conference
+
+
+### Research Assistant
+
+Smith College Language Lab
+
+Northampton, MA
+
+2019/01 - 2021/04
+
+- Evaluated Romani child language assessment with Rasch analysis in R and Winsteps by inspecting outfits and Cronbach's alpha, and make suggestions for improvement with DIF analysis
+- Developed a database with FileMaker for behavioral assessment of Mandarin-speaking 0-to-36-months-old infants in China, which was piloted in a kindergarten
+
+
+### Quantitative Social Science Tutor 
+
+Smith College Spinelli Center for Quantitative Learning
+
+Northampton, MA
+
+2018/09 - 2019/12
+
+- Tutored for introductory statistics courses in Psychology, Government and Sociology for five hours a week
+
